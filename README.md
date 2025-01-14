@@ -4,8 +4,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Foodie Express is a modern, fully responsive food delivery website built with React.js and styled using Tailwind CSS. It leverages advanced React features like hooks, useState, useEffect, React-Redux, and Context API to provide a seamless user experience.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Features
 
+
+#Features
 
 🌟 Dynamic State Management: State management handled with React hooks and React-Redux for scalable and maintainable architecture.
 🛒 Interactive UI: Add to cart, place orders, and manage state dynamically.
